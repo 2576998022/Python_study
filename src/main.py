@@ -32,6 +32,10 @@ def calculator():
 
     print(f"取整除{a}//{b}={a//b}")
 
+
+
+
+
 if __name__ == "__main__":
     calculator()
     print("\n")
