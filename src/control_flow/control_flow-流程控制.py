@@ -1,3 +1,21 @@
+"""
+学习内容：Python流程控制
+1. if条件判断
+   - if-elif-else结构
+   - 条件表达式
+2. for循环
+   - range()函数
+   - 遍历列表
+   - enumerate使用
+3. while循环
+   - 基础语法
+   - 无限循环
+   - 循环控制
+4. break和continue语句
+   - 跳出循环
+   - 继续下一次循环
+"""
+
 # 1. if条件判断：根据年龄判断人生阶段
 def check_age(age):
     """
